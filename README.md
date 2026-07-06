@@ -1,3 +1,5 @@
+<img width="1334" height="639" alt="image" src="https://github.com/user-attachments/assets/6aeba439-898e-48bb-be1b-99a0489411ef" />
+
 # Operação Centurião — Sistema de Inteligência Estatística & Auditoria
 
 O **Sistema Centurião** é uma plataforma de inteligência educacional e auditoria estatística desenvolvida sob medida para a preparação de concursos de alto rendimento (focado no edital CFO/Soldado PMBA). 
