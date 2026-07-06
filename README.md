@@ -10,8 +10,9 @@ A plataforma resolve o problema da falta de direcionamento estratégico e desper
 
 *   **Painel de Comando Centralizado (Dashboard):** Visualização analítica em Neumorfismo de alta fidelidade para controle absoluto de métricas.
 *   **Algoritmo de Risco UNEB Integrado:** Processamento automatizado com peso oficial de **1.25x** por disciplina.
+  
 *   O sistema categoriza o desempenho do usuário em 4 quadrantes críticos instantaneamente:
-*   
+  
     *   🟢 **Zona de Aprovação (Seguro):** Domínio consolidado do conteúdo.
     *   
     *   🟡 **Zona de Alerta (Médio):** Necessidade de revisão imediata do tópico.
