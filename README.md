@@ -38,7 +38,7 @@ O projeto foi construído utilizando as ferramentas mais modernas e performátic
 
 ---
 
-## 📦 Estrutura de Arquitetura do Projeto
+##  Estrutura de Arquitetura do Projeto
 
 ```text
 sistema-centuriao/
