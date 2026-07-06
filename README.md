@@ -9,11 +9,17 @@ A plataforma resolve o problema da falta de direcionamento estratégico e desper
 ##  Diferenciais Comerciais & Funcionalidades
 
 *   **Painel de Comando Centralizado (Dashboard):** Visualização analítica em Neumorfismo de alta fidelidade para controle absoluto de métricas.
-*   **Algoritmo de Risco UNEB Integrado:** Processamento automatizado com peso oficial de **1.25x** por disciplina[cite: 1]. O sistema categoriza o desempenho do usuário em 4 quadrantes críticos instantaneamente:
+*   **Algoritmo de Risco UNEB Integrado:** Processamento automatizado com peso oficial de **1.25x** por disciplina.
+*   O sistema categoriza o desempenho do usuário em 4 quadrantes críticos instantaneamente:
+*   
     *   🟢 **Zona de Aprovação (Seguro):** Domínio consolidado do conteúdo.
+    *   
     *   🟡 **Zona de Alerta (Médio):** Necessidade de revisão imediata do tópico.
+    *   
     *   🔴 **Zona de Corte (< 60pts):** Risco crítico de não classificação.
+    *   
     *   ⚫ **Eliminação Direta:** Desempenho zerado na disciplina.
+    *   
 *   **Mapeamento de Edital Cirúrgico:** Cobertura modularizada de 12 disciplinas essenciais do edital, divididas por blocos de tópicos específicos.
 *   **Auditoria de Vulnerabilidades Nativa:** Identificação cirúrgica por assunto, detalhando a taxa exata de acertos e falhas brutas.
 *   **Exportação de Relatório PDF Nativo:** Motor de impressão otimizado via CSS/Media Queries para gerar documentos estruturados de auditoria física ou digital para mentores e alunos.
@@ -25,7 +31,7 @@ A plataforma resolve o problema da falta de direcionamento estratégico e desper
 O projeto foi construído utilizando as ferramentas mais modernas e performáticas do ecossistema de desenvolvimento global (Safra 2026):
 
 *   **Frontend:** [React 19.2.3](https://react.dev/) & [Next.js 16.1.6](https://nextjs.org/) utilizando a arquitetura otimizada de **App Router**.
-*   **Estilização:** [Tailwind CSS v4](https://tailwindcss.com/) para renderização visual ultra-rápida e interface responsiva[cite: 1].
+*   **Estilização:** [Tailwind CSS v4](https://tailwindcss.com/) para renderização visual ultra-rápida e interface responsiva.
 *   **Linguagem:** [TypeScript 5](https://www.typescriptlang.org/) garantindo tipagem estrita (`strict: true`) e segurança de dados em tempo de compilação.
 *   **Backend & Banco de Dados:** [Supabase](https://supabase.com/) integrado de forma nativa para autenticação, persistência de histórico e integridade relacional.
 
@@ -52,18 +58,21 @@ Certifique-se de ter o Node.js instalado em sua máquina.
 
 2. Clonar o Repositório e Instalar Dependências
 Bash
+
 # Instalar os pacotes necessários especificados no package.json
 npm install
+
 3. Configurar as Variáveis de Ambiente (.env.local)
-Crie um arquivo na raiz do projeto chamado .env.local e insira as chaves de conexão da sua instância do Supabase[cite: 1]:
+Crie um arquivo na raiz do projeto chamado .env.local e insira as chaves de conexão da sua instância do Supabase:
 
 Snippet de código
 NEXT_PUBLIC_SUPABASE_URL=sua_url_aqui
 NEXT_PUBLIC_SUPABASE_ANON_KEY=sua_chave_anon_aqui
-4. Executar em Modo de Desenvolvimento
+4. Executar em Modo de Desenvolvimento.
+
 Bash
 npm run dev
-Abra http://localhost:3000 no seu navegador para visualizar a plataforma operacional rodando em tempo real[cite: 2].
+Abra http://localhost:3000 no seu navegador para visualizar a plataforma operacional rodando em tempo real.
 
 Informações de Governança e Propriedade Intelectual (IP)
 Este software e sua lógica algorítmica proprietária são ativos tecnológicos sob regime de cessão de direitos e custódia comercial.
