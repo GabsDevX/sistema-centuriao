@@ -71,6 +71,7 @@ Crie um arquivo na raiz do projeto chamado .env.local e insira as chaves de cone
 Snippet de código
 NEXT_PUBLIC_SUPABASE_URL=sua_url_aqui
 NEXT_PUBLIC_SUPABASE_ANON_KEY=sua_chave_anon_aqui
+
 4. Executar em Modo de Desenvolvimento.
 
 Bash
