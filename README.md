@@ -14,13 +14,13 @@ A plataforma resolve o problema da falta de direcionamento estratégico e desper
 *   O sistema categoriza o desempenho do usuário em 4 quadrantes críticos instantaneamente:
   
     *   🟢 **Zona de Aprovação (Seguro):** Domínio consolidado do conteúdo.
-    *   
+      
     *   🟡 **Zona de Alerta (Médio):** Necessidade de revisão imediata do tópico.
-    *   
+      
     *   🔴 **Zona de Corte (< 60pts):** Risco crítico de não classificação.
-    *   
+      
     *   ⚫ **Eliminação Direta:** Desempenho zerado na disciplina.
-    *   
+      
 *   **Mapeamento de Edital Cirúrgico:** Cobertura modularizada de 12 disciplinas essenciais do edital, divididas por blocos de tópicos específicos.
 *   **Auditoria de Vulnerabilidades Nativa:** Identificação cirúrgica por assunto, detalhando a taxa exata de acertos e falhas brutas.
 *   **Exportação de Relatório PDF Nativo:** Motor de impressão otimizado via CSS/Media Queries para gerar documentos estruturados de auditoria física ou digital para mentores e alunos.
